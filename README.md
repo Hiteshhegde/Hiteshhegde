@@ -1,5 +1,5 @@
 ### Hitesh hegde
-- 👀 Interested in Python, Web Dev, Machine Learning, Dev Ops
+- 👀 Interested in Python, Web Dev, Machine Learning
 - 🌱 Searching for jobs as Python developer 
 - My skills sets ---   
      -Langauges  
